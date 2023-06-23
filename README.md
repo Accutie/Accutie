@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @okishguy
-- 👀 I’m interested in web3, Devops, Linux, blogging 
-- 🌱 I’m currently learning docker, containers, kubernetes, web3 fullstack
-- 💞️ I’m looking to collaborate on Devops and web3 projects
+- 👋 Hi, I’m Charan Singh, a Cybersecurity Practitioner and writer
+- 👀 I’m interested in infosec, threat intelligence, bug bounty, web3
+- 🌱 I’m currently learning web application security, threat detection and vulnerability analysis
+- 💞️ I’m looking to collaborate on security + AI related projects
 - 📫 How to reach me - connect with me on twitter @okishguy
 
 <!---
